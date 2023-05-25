@@ -6,6 +6,7 @@ module.exports = {
     './src/**/*.{js,jsx,ts,tsx}',
     './components/**/*.{js,jsx,ts,tsx}',
     './HomeScreen.{js,jsx,ts,tsx}',
+    './Search.{js,jsx,ts,tsx}',
     // './Banner.{js,jsx,ts,tsx}',
   ],
   theme: {
